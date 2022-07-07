@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 雪糕刺客
-subtitle: '雪糕刺客'
-description: '从来没有真正的绝境，只有心灵的迷途'
-keywords: 雪糕刺客,Ice Cream Assassin
-author: Ice Cream Assassin
+title: stream
+subtitle: '溪间有水'
+description: 'stream,streamer,goose,tech,java,互联网'
+keywords: stream,streamer,goose,tech,java,互联网
+author: streamer
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://ice-cream-assassin.github.io
+url: https://ice-cream-assassin.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
